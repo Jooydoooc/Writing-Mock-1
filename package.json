@@ -1,0 +1,33 @@
+{
+  "name": "ielts-writing-test-app",
+  "version": "1.0.0",
+  "description": "IELTS Writing Test Platform with Telegram Integration",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel start",
+    "deploy": "vercel deploy --prod"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "vercel": "^28.18.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/ielts-writing-test.git"
+  },
+  "keywords": [
+    "ielts",
+    "writing",
+    "test",
+    "telegram",
+    "education"
+  ],
+  "author": "IELTS Test Platform",
+  "license": "MIT"
+}
